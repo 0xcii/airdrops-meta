@@ -1,0 +1,19 @@
+{
+  "platform": "Airdrops Plus Hunter Pass",
+  "name": "Airdrops Hunter",
+  "description": " ",
+  "external_url": "https://pin.ski/45W3wkc",
+  "image": "https://pin.ski/45W3wkc",
+  "attributes": [
+    {
+      "trait_type": "NFT",
+      "value": "Hunter"
+    }
+  ],
+  "animation_url": "",
+  "compiler": "",
+  "interactive_nft": {
+    "code_uri": "",
+    "version": "1.0"
+  }
+}
